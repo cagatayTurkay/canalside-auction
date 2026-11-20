@@ -18,7 +18,7 @@ Bidding will close at midnight on **1st December 2026** & we will aim to contact
 
 **When the auction closes**, the highest bid on each item wins. We will contact the winners by email or phone to arrange payment and collection.
 
-**Your details:** your name, bid and email or phone number come to us, the Canalside Community Food organisers. Only your name and bid are shown on this page. Your email or phone number stays private and is only used to contact you about the auction.
+**Your details:** your name, bid and email or phone number come to us, the Canalside Community Food organisers. Only your name and bid are shown on this page. Your email or phone number stays private and is only used to contact you about the auction. The data will be deleted once the auction is settled.
 
 <!--
   HOW TO ADD AN ITEM (no HTML needed!)
