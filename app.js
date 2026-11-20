@@ -188,7 +188,7 @@
     const photos = e.photos.length
       ? `<div class="gallery">
            <div class="slides">${e.photos.map((p, i) =>
-             `<a href="${esc(p)}" target="_blank" rel="noopener"><img class="backdrop" src="${esc(p)}" alt="" aria-hidden="true" loading="lazy"><img class="photo" src="${esc(p)}" alt="${esc(e.title)} — photo ${i + 1}" loading="lazy"></a>`).join("")}</div>
+             `<div class="slide"><img class="backdrop" src="${esc(p)}" alt="" aria-hidden="true" loading="lazy"><img class="photo" src="${esc(p)}" alt="${esc(e.title)} — photo ${i + 1}" loading="lazy"></div>`).join("")}</div>
            ${e.photos.length > 1 ? `<button type="button" class="nav prev" aria-label="Previous photo">‹</button>
              <button type="button" class="nav next" aria-label="Next photo">›</button>
              <div class="dots">${e.photos.map((_, i) => `<span class="${i ? "" : "on"}"></span>`).join("")}</div>` : ""}

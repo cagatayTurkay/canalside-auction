@@ -244,7 +244,7 @@ Starting bid: 15
 
 Donated by: Canalside member Virginie
 
-Photos: images/lot21-image-1.jpeg, images/lot21-image-2.jpeg, images/lot21-image-3.jpeg, images/lot21-image-4.jpeg, images/lot21-image-5.jpeg, images/lot21-image-6.jpeg
+Photos: images/lot21-image-1.jpeg, images/lot21-image-2.jpeg, images/lot21-image-3.jpeg, images/lot21-image-4.jpeg
 
 Used, but in excellent condition. A large number & variety of wonderful punches, ideal for craft work. Includes a range of Martha Stewart punches.
 
