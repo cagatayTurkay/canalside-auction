@@ -170,7 +170,7 @@ This is a great opportunity to explore the range of items at the Library of Thin
 Lot: 13
 Starting bid: 12.50
 Donated by: Zoe, Virginie & Di
-Photos: images/lot13-image-1.jpeg, images/lot13-image-2.jpeg, images/lot13-image-3.jpeg, images/lot13-image-4.jpeg
+Photos: images/lot13-image-1.jpeg, images/lot13-image-2.jpeg, images/lot13-image-3.jpeg, images/lot13-image-4.jpeg, image-5.jpeg
 
 A very drinkable selection of red & white wine... & one tiny miniature added extra! Just in time for festivities.
 
@@ -198,7 +198,7 @@ Starting bid: 20
 Donated by: David Mond
 Photos: images/lot16-image-1.jpeg
 
-David is able to make/fit shelving etc. and will discuss and agree your requirements. David is donating his knowledge, time & skills; you will supply the materials needed.
+David is able to make/fit shelving etc. and will discuss and agree your requirements. David is also able to make certain furniture repairs (by discussion) & can also build swift boxes. David is donating his knowledge, time & skills; you will supply the materials needed. 
 
 ## Weekend yoga workshop or individual sessions
 Lot: 17
@@ -206,7 +206,7 @@ Starting bid: 15
 Donated by: Verity Thompson
 Photos: images/lot17-image-1.jpeg
 
-The yoga workshop is scheduled for the weekend before Christmas. Individual sessions by arrangement with Verity.
+individual session or group classes by arrangement with Verity.
 
 ## A can of worms!
 Lot: 18
@@ -222,7 +222,7 @@ Worms are front-line climate activists, fixing carbon back into the soil. We all
 
 ## Three ceramic pieces by Viv Egid
 Lot: 19
-Starting bid: 15
+Starting bid: 20
 Donated by: Canalside member Viv Egid
 Photos: images/lot19-image-1.jpeg, images/lot19-image-2.jpeg, images/lot19-image-3.jpeg, images/lot19-image-4.jpeg, images/lot19-image-5.jpeg
 
