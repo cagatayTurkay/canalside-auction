@@ -104,6 +104,8 @@
     return md.split(/\n\s*\n/).map((block) => {
       const lines = block.split("\n").filter((l) => l.trim());
       if (!lines.length) return "";
+      if (lines.every((l) => /^\s*\d+[.)]\s+/.test(l)))
+        return "<ol>" + lines.map((l) => "<li>" + inline(l.replace(/^\s*\d+[.)]\s+/, "")) + "</li>").join("") + "</ol>";
       if (lines.every((l) => /^\s*[-*]\s+/.test(l)))
         return "<ul>" + lines.map((l) => "<li>" + inline(l.replace(/^\s*[-*]\s+/, "")) + "</li>").join("") + "</ul>";
       return "<p>" + lines.map(inline).join("<br>") + "</p>";
@@ -199,7 +201,7 @@
       <div class="body">
         ${e.lot ? `<p class="lot">Lot ${esc(e.lot)}</p>` : ""}
         <h2>${esc(e.title)}</h2>
-        ${e.donor ? `<p class="donor">Donated by ${esc(e.donor)}</p>` : ""}
+        ${e.donor ? `<p class="donor">Generously donated by ${esc(e.donor)}</p>` : ""}
         <div class="desc">${renderMarkdown(e.description)}</div>
         <div class="price">
           <span class="label">Current bid</span>

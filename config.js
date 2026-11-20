@@ -10,7 +10,7 @@ window.AUCTION_CONFIG = {
 
   // When bidding closes (UK time). Leave empty ("") for no closing time.
   // Format: "YYYY-MM-DDTHH:MM", for example "2026-12-12T20:00"
-  closesAt: "",
+  closesAt: "2026-12-01T23:59",
 
   // Each new bid must be at least this much higher than the current bid.
   minIncrement: 1,
@@ -30,7 +30,7 @@ window.AUCTION_CONFIG = {
 
   // Shown under the bid forms. Say who is collecting the details and
   // when they will be deleted.
-  privacyNote: "Your name and bid are shown on this page. Your email or phone number is only used to contact you if you win, is seen only by the auction organisers, and will be deleted once the auction is settled.",
+  privacyNote: "Your name and bid are shown on this page. Your email or phone number goes only to the Canalside Community Food organisers, is only used to contact you about the auction, and will be deleted once the auction is settled",
 
   // How often (in seconds) the page checks for new bids.
   refreshSeconds: 30,

@@ -44,9 +44,11 @@ Took **three months** to finish!
 
 To **add an item**, copy an existing block, paste it at the bottom and change the details.
 
-The line at the very top that starts with a single `#` is the page title. The text under it is the introduction.
+The line at the very top that starts with a single `#` is the page title. The text under it is the introduction and bidding instructions. You can edit it the same way: numbered lines (`1.`, `2.` …) become a numbered list.
 
-**Photos:** upload them to the `images` folder. On GitHub, open the folder and choose **Add file → Upload files**. Then list them, e.g. `Photos: images/teapot.jpg`. Phone photos work, but smaller files (under about 1 MB) load faster. You can also use a full web link (`https://…`) to an image.
+The Canalside logo banner at the very top is `images/canalside-header.jpg`. Replace that file to change it.
+
+**Photos:** upload them to the `images` folder. On GitHub, open the folder and choose **Add file → Upload files**. Then list them, e.g. `Photos: images/teapot.jpg`. Photos can be **any shape** (portrait, landscape, square or panorama). There's no need to crop or resize them, because the page always shows the whole photo and fills the spare space with a soft blurred version of it. Phone photos work fine, though smaller files (under about 1 MB) load faster on mobiles. You can also use a full web link (`https://…`) to an image.
 
 If something is wrong (for example two items have the same Lot number), a yellow warning box appears at the top of the page.
 
