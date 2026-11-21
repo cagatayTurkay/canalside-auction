@@ -208,7 +208,7 @@ Starting bid: 15
 Donated by: Verity Thompson
 Photos: images/lot17-image-1.jpeg
 
-individual session or group classes by arrangement with Verity.
+Individual session or group classes by arrangement with Verity.
 
 ## A can of worms!
 Lot: 18
@@ -255,7 +255,7 @@ Used, but in excellent condition. A large number & variety of wonderful punches,
 ## Help for building a simple webpage
 
 Lot: 22
-Starting bid: 10
+Starting bid: 15
 
 Donated by: Canalside member Cagatay Turkay
 
