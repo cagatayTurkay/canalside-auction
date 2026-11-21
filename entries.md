@@ -6,19 +6,21 @@ The Canalside Social & Fundraiser event is on Sat 21st November (7-10.30pm @ Rad
 
 Bidding will close at midnight on **1st December 2026** & we will aim to contact the winners the following day...**Wednesday 2nd December 2026**. The winners will then need to agree collection.
 
-
-
 **How to bid using this webpage** 
 
 1. Look through the items below. Use the arrows on a photo to see more pictures.
 2. On the item you'd like, type your name, your email or phone number, and how much you want to bid.
 3. Your bid must be higher than the current bid. The bid box shows the lowest amount you can bid.
-4. Press **Place bid**. Your name and bid will then appear on the item.
+4. Press **Place bid**. Your name and bid will then appear on the item. 
 5. Come back to check! If someone bids more than you, you can bid again.
+
+Please note that this is a volunteer-developed webpage that we put together for this event and not professionally maintained so the prices will load a bit slowly when you load the page and your bid might take a while to appear on the item.
 
 **When the auction closes**, the highest bid on each item wins. We will contact the winners by email or phone to arrange payment and collection.
 
 **Your details:** your name, bid and email or phone number come to us, the Canalside Community Food organisers. Only your name and bid are shown on this page. Your email or phone number stays private and is only used to contact you about the auction. The data will be deleted once the auction is settled.
+
+
 
 <!--
   HOW TO ADD AN ITEM (no HTML needed!)
