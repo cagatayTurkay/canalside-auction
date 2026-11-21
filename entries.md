@@ -170,7 +170,7 @@ This is a great opportunity to explore the range of items at the Library of Thin
 Lot: 13
 Starting bid: 12.50
 Donated by: Zoe, Virginie & Di
-Photos: images/lot13-image-1.jpeg, images/lot13-image-2.jpeg, images/lot13-image-3.jpeg, images/lot13-image-4.jpeg, image-5.jpeg
+Photos: images/lot13-image-1.jpeg, images/lot13-image-2.jpeg, images/lot13-image-3.jpeg, images/lot13-image-4.jpeg, images/image-5.jpeg
 
 A very drinkable selection of red & white wine... & one tiny miniature added extra! Just in time for festivities.
 
