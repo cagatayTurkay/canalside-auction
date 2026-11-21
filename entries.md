@@ -250,10 +250,13 @@ Used, but in excellent condition. A large number & variety of wonderful punches,
 
 [See the Martha Stewart punches](https://www.youtube.com/watch?v=INwBfiPnwXU)
 
-## Help to build you a simple webpage
+## Help for building a simple webpage
 
 Lot: 22
 Starting bid: 10
+
+Donated by: Canalside member Cagatay Turkay
+
 Photos: images/ct-webpage.png
 
-I will help you build a very simple webpage. Nothing too complex but this can be a personal page, a page for a community or something similar. Note that you will still need to pay for a place to "host" the webpage and pay for the web address but I can also suggest some free options and can help you set that up as well.
+I will help you build a very simple webpage. We'll talk about what you need and I'll have a look at the content you have to suggest a structure and design. This can't be a webpage that is too complex but can be a personal page for sharing your portfolio/work, a page for a community with an introduction, contact information or something similar. Note that you will still need to pay for a service to "host" the webpage and the web address but I can suggest some free options and can help you set that up as well.
