@@ -1,6 +1,6 @@
 # Canalside Community Food Fundraising Auction
 
-Welcome to the Canalside Community Food fundraising auction! All money raised supports Canalside Community Food. We hope you'll be able to join us in person, at the Canalside Social & Fundraiser event, to launch this auction. 
+Welcome to the Canalside Community Food fundraising auction! All money raised supports [Canalside Community Food](https://www.canalsidecommunityfood.org.uk/). We hope you'll be able to join us in person, at the Canalside Social & Fundraiser event, to launch this auction. 
 
 The Canalside Social & Fundraiser event is on Sat 21st November (7-10.30pm @ Radford Semele Village Hall). There will be opportunities to bid in person for all these items, so generously donated by members & supporters of Canalside. The highest bids from this event will then be moved forward to this online auction page. Here will be more opportunities to add to the 'in-person' bids to secure the items you'd really like to have. 
 
