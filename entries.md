@@ -262,3 +262,98 @@ Donated by: Canalside member Cagatay Turkay
 Photos: images/ct-webpage.png
 
 I will help you build a very simple webpage. We'll talk about what you need and I'll have a look at the content you have to suggest a structure and design. This can't be a webpage that is too complex but can be a personal page for sharing your portfolio/work, a page for a community with an introduction, contact information or something similar. Note that you will still need to pay for a service to "host" the webpage and the web address but I can suggest some free options and can help you set that up as well.
+
+## Two elephant pieces: carved wooden elephant & metal jewellery casket
+
+Lot: 23
+Starting bid: 15
+Donated by: Nirmal Parekh
+Photos: images/lot23-image-1.jpeg, images/lot23-image-2.jpeg, images/lot23-image-3.jpeg, images/lot23-image-4.jpeg, images/lot23-image-5.jpeg, images/lot23-image-6.jpeg, images/lot23-image-7.jpeg
+
+- **A decorative carved wooden elephant.** Approx. height 17cm, width (tail to trunk) 26cm.
+- **A square metal jewellery casket.** 20 x 20cm, height 4.5cm.
+
+## Two decorative pieces: 'Home' sign & ceramic Buddha incense holder
+
+Lot: 24
+Starting bid: 10
+Donated by: Canalside member Nirmal Parekh
+Photos: images/lot24-image-1.jpeg, images/lot24-image-2.jpeg, images/lot24-image-3.jpeg
+
+- **Dunelm 'Home where our story begins' sign.** Wood with lime wash. 30cm wide, 11cm high, 2.5cm deep.
+- **Ceramic Buddha incense holder.** 12cm high, 8cm wide, 6cm deep.
+
+## Rhythm 'Shooting Stars' quartz clock
+
+Lot: 25
+Starting bid: 20
+Donated by: Canalside member Nirmal Parekh
+Photos: images/lot25-image-1.jpeg, images/lot25-image-2.jpeg, images/lot25-image-3.jpeg
+
+A Rhythm 'Shooting Stars' quartz clock with a silver-coloured finish and a rotating spiral pendulum. Base 19.5cm, height 24cm. Requires 1 x AA battery.
+
+Retail price: £89.
+
+## The delicious one! Tomato chutney & a Crown Prince squash
+
+Lot: 26
+Starting bid: 10
+Donated by: Lizzie Reilly & Canalside
+Photos: images/lot26-image-1.jpeg, images/lot26-image-2.jpeg, images/lot26-image-3.jpeg, images/lot26-image-4.jpeg, images/lot26-image-5.jpeg, images/lot26-image-6.jpeg
+
+- **A jar of green & pink tomato chutney**, made to a Riverford recipe.
+- **One Crown Prince squash**, weighing in at 3.5kg.
+
+## A half case of wine
+
+Lot: 27
+Starting bid: 20
+Donated by: Several Canalside members
+Photos: images/lot27-image-1.jpeg, images/lot27-image-2.jpeg, images/lot27-image-3.jpeg, images/lot27-image-4.jpeg, images/lot27-image-5.jpeg
+
+Six bottles: 3 sparkling whites, 1 rosé, 1 white & 1 red.
+
+## Gin & games
+
+Lot: 28
+Starting bid: 10
+
+Donated by: Several Canalside members
+
+Photos: images/lot28-image-1.jpeg, images/lot28-image-2.jpeg, images/lot28-image-3.jpeg, images/lot28-image-4.jpeg
+
+- **A half bottle of Gordon's Premium Pink gin.**
+- **One bottle of Purple Moose Brewery 'Merry X-Moose'** strong bitter.
+- **'Wooden Game Workshop' backgammon & chess set.**
+
+## Time for tea: vintage table linen, teapot & Rooibos tea
+
+Lot: 29
+Starting bid: 20
+Donated by: Jane Ingall & Nirmal Parekh
+Photos: images/lot29-image-1.jpeg, images/lot29-image-2.jpeg, images/lot29-image-3.jpeg, images/lot29-image-4.jpeg, images/lot29-image-5.jpeg, images/lot29-image-6.jpeg, images/lot29-image-7.jpeg, images/lot29-image-8.jpeg, images/lot29-image-9.jpeg, images/lot29-image-10.jpeg, images/lot29-image-11.jpeg, images/lot29-image-12.jpeg, images/lot29-image-13.jpeg, images/lot29-image-14.jpeg
+
+**a) Two matching vintage embroidered linen tablecloths & napkins**
+
+- 1 large tablecloth, 164 x 252cm. Some small areas of marking, see photos.
+- 1 small tablecloth, 81 x 81cm. In excellent condition.
+- 10 matching napkins.
+
+**b) Teapot & 50g of organic Rooibos tea** from [The Golden Monkey](https://goldenmonkeyteacompany.co.uk/) in Warwick.
+
+## Tipsy teatime: vintage tablecloth & three bottles
+
+Lot: 30
+Starting bid: 15
+Donated by: Jane Ingall & other Canalside members
+Photos: images/lot30-image-1.jpeg, images/lot30-image-2.jpeg, images/lot30-image-3.jpeg, images/lot30-image-4.jpeg, images/lot30-image-5.jpeg
+
+**a) A vintage embroidered/cutwork linen tablecloth**, 100 x 103cm. Some marking, see photos.
+
+**b) Three bottles:**
+
+- 1 x Montepulciano d'Abruzzo, 2021, 13.5%
+- 1 x 30cl bottle of Nozecco (vegan)
+- 1 x 20cl bottle of sweet potato gin liqueur, 25% vol.
+
+Go on... you know you want to!
