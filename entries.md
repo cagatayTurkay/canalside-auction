@@ -86,6 +86,8 @@ You will be able to join either the Tuesday group (Warwick, starts 5 Jan) or the
 
 Email [bruceknight.voice@gmail.com](mailto:bruceknight.voice@gmail.com) for more info.
 
+**Note:** Not available to current members.
+
 ## Part-cashmere Italian scarf with found wood bark brooch
 Lot: 5
 Starting bid: 5
@@ -294,15 +296,22 @@ A Rhythm 'Shooting Stars' quartz clock with a silver-coloured finish and a rotat
 
 Retail price: £89.
 
-## The delicious one! Tomato chutney & a Crown Prince squash
+## The delicious one! 
 
 Lot: 26
 Starting bid: 10
 Donated by: Lizzie Reilly & Canalside
-Photos: images/lot26-image-1.jpeg, images/lot26-image-2.jpeg, images/lot26-image-3.jpeg, images/lot26-image-4.jpeg, images/lot26-image-5.jpeg, images/lot26-image-6.jpeg
+Photos: images/lot26-image-1.jpeg, images/lot26-image-2.jpeg, images/lot26-image-3.jpeg, images/lot26-image-4.jpeg, images/lot26-image-5.jpeg, images/lot26-image-6.jpeg, images/lot26-image-7.jpeg, images/lot26-image-8.jpeg, images/lot26-image-9.jpeg, images/lot26-image-10.jpeg, images/lot26-image-11.jpeg, images/lot26-image-12.jpeg, images/lot26-image-13.jpeg, images/lot26-image-14.jpeg, images/lot26-image-15.jpeg
 
-- **A jar of green & pink tomato chutney**, made to a Riverford recipe.
-- **One Crown Prince squash**, weighing in at 3.5kg.
+Four jars of homemade chutney & one magnificent Crown Prince squash.
+
+- 1 jar Peppered cider apple cheese (Pam Corbin recipe/River Cottage).
+- 1 jar Tomato & chilli jam (Pam Corbin recipe/River Cottage).
+- 1 jar Green & Pink tomato chutney ( Riverford recipe).
+- 1 jar Apple, chilli & ginger jam (Pam Corbin/River Cottage recipe).
+- 1 Crown Prince Squash. 3.5kg.
+
+Generously donated by Lizzie Reilly & Canalside.  
 
 ## A half case of wine
 
@@ -346,7 +355,7 @@ Photos: images/lot29-image-1.jpeg, images/lot29-image-2.jpeg, images/lot29-image
 Lot: 30
 Starting bid: 15
 Donated by: Jane Ingall & other Canalside members
-Photos: images/lot30-image-1.jpeg, images/lot30-image-2.jpeg, images/lot30-image-3.jpeg, images/lot30-image-4.jpeg, images/lot30-image-5.jpeg
+Photos: images/lot30-image-1.jpeg, images/lot30-image-2.jpeg, images/lot30-image-3.jpeg, images/lot30-image-4.jpeg, images/lot30-image-5.jpeg, images/lot30-image-6.jpeg, images/lot30-image-7.jpeg, images/lot30-image-8.jpeg, images/lot30-image-9.jpeg, images/lot30-image-10.jpeg
 
 **a) A vintage embroidered/cutwork linen tablecloth**, 100 x 103cm. Some marking, see photos.
 
